@@ -1,10 +1,7 @@
 <h1>Hi, I'm Talha! <br/> <a</a></h1>
 
-<h2>🖥️ Systems Administration & IT Infrastructure Lab:</h2>
-
-Windows Server Infrastructure Lab: Deployed and configured a Windows Server environment utilising VirtualBox, implementing Active Directory Domain Services (AD DS), DHCP scope management, and RAS/NAT gateway routing.
-
-  
+<h2>🖥️ IT Projects:</h2>
+- <a href="https://github.com/Talha-Luqmaan-Naveed/active-directory-homelab">Active Directory Home Lab</a>
 
 
 
