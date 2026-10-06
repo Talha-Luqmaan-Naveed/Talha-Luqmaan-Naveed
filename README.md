@@ -1,7 +1,8 @@
 <h1>Hi, I'm Talha! <br/> <a</a></h1>
 
 <h2>🖥️ IT Projects:</h2>
-- <a href="https://github.com/Talha-Luqmaan-Naveed/active-directory-homelab">Active Directory Home Lab</a>
+- <a href="https://github.com/Talha-Luqmaan-Naveed/active-directory-homelab">1st-Line-Service-Desk-Ticket-Simulator
+</a>
 
 
 
